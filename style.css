@@ -35,7 +35,7 @@
     border-top: 1px solid black;
 }
 
-#list_container li {
+#list_container li a {
     color: orange;
     text-decoration: none;
 }
